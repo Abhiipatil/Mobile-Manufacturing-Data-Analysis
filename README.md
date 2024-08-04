@@ -1,6 +1,6 @@
 # Business Scenario:
 The database “Cellphones Information” contains details on
-cell phone sales or transactions.
+cell phone sales or transactions
 # Data Sets: 
 1. Dim_manufacturer,
 2. Dim_model,
